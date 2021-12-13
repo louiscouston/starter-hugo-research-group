@@ -10,7 +10,7 @@ role: Assistant Professor of Physics
 
 # Organizations/Affiliations
 organizations:
-- name: LPENSL, Université Claude Bernard Lyon 1
+- name: Laboratoire de Physique, Université Claude Bernard Lyon 1
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
