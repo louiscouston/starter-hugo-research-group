@@ -1,6 +1,6 @@
 ---
 title: Clément de la Salle joins TAG to investigate the fate of subglacial water lenses on icy moons
-date: 2020-12-02
+date: 2021-04-05
 image:
   focal_point: "top"
 ---
