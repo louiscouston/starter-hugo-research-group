@@ -9,7 +9,7 @@ weight: 10  # Order that this section will appear.
 title: |
   Theoretical and Applied 
   Geophysical *fluid dynamics* 
-  Research Group
+  Group
 hero_media: 428788.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
