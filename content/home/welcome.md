@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **TAG** *fd* **Research Group** investigates how planetary oceans, lakes and atmospheres work. We are motivated to untangle the complicated physics that control climate change and the habitability of the natural environment.
+The {**TAG**}*fd* **Research Group** investigates how planetary oceans, lakes and atmospheres work. We are motivated to untangle the complicated physics that control climate change and the habitability of the natural environment.
