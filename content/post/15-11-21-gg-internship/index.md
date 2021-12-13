@@ -1,5 +1,5 @@
 ---
-title: Guillaume Gachon joins TAG to study 
+title: Guillaume Gachon joins TAG to investigate ice melting in saltwater
 date: 2020-12-02
 image:
   focal_point: "top"
