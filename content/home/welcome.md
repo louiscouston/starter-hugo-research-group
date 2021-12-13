@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **TAG Research Group** investigates how planetary oceans, lakes and atmospheres work. We are motivated to untangle the complicated physics that control climate change and physical conditions conducive to habitable aquatic environments.
+The **TAG Research Group** investigates how planetary oceans, lakes and atmospheres work. We are motivated to untangle the complicated physics that control climate change and the habitability of the natural environment.
