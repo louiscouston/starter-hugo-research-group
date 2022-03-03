@@ -7,8 +7,8 @@ featured: true
 external_link: none
 links: []
 image:
-  filename: featured
+  filename: picture3.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 aaa bbb ccc
